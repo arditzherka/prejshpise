@@ -1,0 +1,16 @@
+.DS_Store
+.nodemonignore
+.sass-cache/
+npm-debug.log
+node_modules/
+.vscode
+.idea/
+.c9/
+.env
+*.swp
+.settings/
+typings/
+server/config/env/secrets.js
+dist
+.nyc_output/
+coverage/

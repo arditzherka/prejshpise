@@ -142,19 +142,6 @@ $ git push origin [name_of_your_new_branch]
 
 ##### If you need more help with branching, take a look at [this](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches).
 
-
-### Setup Linting
-
-We reccomend you have [ESLint running in your editor](http://eslint.org/docs/user-guide/integrations.html). It will highlight anything that doesn't conform to our Pantry-for-Good's coding style conventions. (you can find a summary of those rules [here](https://github.com/freeCodeCamp/Pantry-for-Good/blob/staging/.eslintrc)).
-
-You can also check for linting errors by running the command
-```shell
-npm run lint
-```
-
-> Please do not ignore any linting errors, as they are meant to **help** you and to ensure a clean and simple code base.
-
-
 ### Make Changes
 This bit is up to you!  After you make changes be sure to fix any lint warnings or errors before submitting a pull request.
 
