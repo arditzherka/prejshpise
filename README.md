@@ -9,7 +9,7 @@ in both client and server directories.
 For starting the client you must run
 ```
 npm start
-'''
+```
 inside client folder
 
 
