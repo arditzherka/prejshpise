@@ -30,6 +30,7 @@ If you find a bug that is not listed as an issue, feel free to add a new issue.
 | ------------------------------------------- | ------- |
 | [MongoDB](http://www.mongodb.org/downloads) | `~ ^3`  |
 | [Node.js](http://nodejs.org)                | `~ ^6`  |
+| [AngularCLI](https://angular.io)            | `~ ^5`  |
 | [Git](https://git-scm.com/)
 
 You'll need to have the latest verison of node.js installed. Either use your OS's package manager or follow the installation instructions on the [official website](http://nodejs.org).
