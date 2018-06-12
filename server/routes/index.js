@@ -2,7 +2,7 @@ var express = require('express');
 var router = express.Router();
 
 router.get('/', function(req, res, next) {
-  res.json({message: 'Index page'})
+  res.json({message: ''})
 });
 
 module.exports = router;
